@@ -37,6 +37,13 @@ Activation function | relu
 Convolution layers | [[16, [3, 3], 2], [32, [3, 3], 2], [32, [3, 3], 1]]
 Cell types | UNK, FREE, OCCUPIED
 
+## Training
+
+<img src = imgs/reward.png>
+
+<img src = imgs/episode.png>
+
+
 ## Results
 
 <img src = gifs/iter_499.gif width="400" height="400">
